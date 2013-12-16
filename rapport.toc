@@ -1,0 +1,10 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {chapter}{\numberline {1}La souffrance dans le cadre industriel : une souffrance physique ?}{4}
+\contentsline {chapter}{\numberline {2}La souffrance au travail dans notre soci\IeC {\'e}t\IeC {\'e} actuelle}{5}
+\contentsline {chapter}{\numberline {3}L\IeC {\textquoteright }acceptation de la souffrance : la souffrance banalis\IeC {\'e}e ?}{6}
+\contentsline {chapter}{\numberline {4}La souffrance au travail : une fatalit\IeC {\'e} ?}{7}
+\contentsline {chapter}{Conclusion}{8}
